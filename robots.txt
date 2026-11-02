@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dlsel160-code.github.io/GEO--Growth-Lab/sitemap.xml
